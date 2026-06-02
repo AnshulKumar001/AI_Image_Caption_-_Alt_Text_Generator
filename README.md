@@ -4,7 +4,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-BLIP-yellow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An AI-powered web application that automatically generates image captions and accessibility-focused alt text from uploaded images using the **BLIP (Bootstrapping Language-Image Pre-training)** Transformer model. The application helps improve accessibility, SEO, and content management by creating meaningful image descriptions in real time.
 
